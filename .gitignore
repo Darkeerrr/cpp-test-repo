@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Игнорировать файл README.md.
 README.md
 
@@ -5,4 +6,6 @@ README.md
 build/side.txt
 
 # Игнорировать все файлы с расширением .doc.
+=======
+>>>>>>> refs/remotes/origin/master
 *.doc
